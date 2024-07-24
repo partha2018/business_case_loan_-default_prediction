@@ -1,6 +1,5 @@
-# business_case_loan_-default_prediction
-
 # Loan Default Prediction and Evaluation Criteria
+
 
 ## Problem Statement:
 
